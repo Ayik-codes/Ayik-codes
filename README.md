@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramkrishna Giri</h1>
-<h3 align="center">WEB Developer, AI/ML Enthusiast</h3>
+<h3 align="center">Web Developer, AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayik-codes&label=Profile%20views&color=0e75b6&style=flat" alt="ayik-codes" /> </p>
 
